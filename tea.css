@@ -1,0 +1,114 @@
+body{
+    background-color: #264653;
+    margin: 2rem;
+}
+.navbar {
+    overflow: hidden;
+    background-color: #dfefca;
+  }
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: #F78764;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    }
+.subnav {
+    float: left;
+    overflow: hidden;
+    }
+.subnav .subnavbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: #F78764;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+      }
+.navbar a:hover, .subnav:hover .subnavbtn {
+    background-color: #4b7283;
+    }
+.subnav-content {
+    display: none;
+    position: absolute;
+    left: 0;
+    background-color: #4b7283;
+    width: 100%;
+    z-index: 1;
+    } 
+.subnav-content a {
+    float: left;
+    color: #dfefca;
+    text-decoration: none;
+    }
+.subnav-content a:hover {
+    background-color: #6f9db1;
+    color: #dfefca;
+    }
+.subnav:hover .subnav-content {
+    display: block;
+    }
+    p{
+        color: #dfefca;
+    }
+    ul{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        color:#dfefca
+    }
+    img {
+        float: left;
+        margin-right: 1rem;
+    }
+    .blacktea {
+        padding: 2rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        border: 5px solid #6f9db1;
+        border-radius: 10px;
+        padding-bottom: 8rem;
+    }
+    .greentea {
+        padding: 2rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        border: 5px solid #6f9db1;
+        border-radius: 10px;
+        padding-bottom: 8rem;
+    }
+    .fruittea {
+        padding: 2rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        border: 5px solid #6f9db1;
+        border-radius: 10px;
+        padding-bottom: 8rem;
+    }
+    .matchatea {
+        padding: 2rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        border: 5px solid #6f9db1;
+        border-radius: 10px;
+        padding-bottom: 8rem;
+    }
+    .flowertea {
+        padding: 2rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        border: 5px solid #6f9db1;
+        border-radius: 10px;
+        padding-bottom: 8rem;
+    }
+    .textik {
+        padding: 2rem;
+        border-radius: 10px;
+        margin-top: 2rem;
+        border: 5px solid #6f9db1;
+        color: #dfefca;
+    }
