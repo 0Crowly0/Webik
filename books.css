@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
 body{
     background-color: #264653;
     margin: 2rem;
+    font-family: 'Quicksand', sans-serif;
 }
 .navbar {
     overflow: hidden;
@@ -60,12 +62,28 @@ body{
     }
     ul{
         list-style-type: none;
-        margin: 0;
+        margin-left: 13.5rem;
         padding: 0;
         overflow: hidden;
         color:#dfefca
     }
     .dragon {
+        padding: 2rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        border: 5px solid #6f9db1;
+        border-radius: 10px;
+        padding-bottom: 8rem;
+    }
+    .rus {
+        padding: 2rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        border: 5px solid #6f9db1;
+        border-radius: 10px;
+        padding-bottom: 8rem;
+    }
+    .cyber {
         padding: 2rem;
         margin-top: 2rem;
         margin-bottom: 2rem;
