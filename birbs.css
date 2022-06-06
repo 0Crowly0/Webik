@@ -23,7 +23,6 @@ body{
     border: none;
     outline: none;
     color: #F78764;
-    padding: 14px 16px;
     background-color: inherit;
     font-family: inherit;
     margin: 0;
@@ -38,6 +37,7 @@ body{
     background-color: #4b7283;
     width: 100%;
     z-index: 1;
+    margin-top: 2.9rem;
     } 
 .subnav-content a {
     float: left;
@@ -71,4 +71,24 @@ body{
         font-family: monospace;
         font-size: 1.2rem;
         text-align: left;
+    }
+    img {
+        float: left;
+        margin-right: 1rem;
+    }
+    .raven {
+        padding: 2rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        border: 5px solid #6f9db1;
+        border-radius: 10px;
+        padding-bottom: 8rem;
+    }
+    .crow {
+        padding: 2rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        border: 5px solid #6f9db1;
+        border-radius: 10px;
+        padding-bottom: 8rem;
     }
