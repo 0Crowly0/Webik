@@ -51,3 +51,25 @@ body{
 .subnav:hover .subnav-content {
     display: block;
     }
+    p{
+        color: #dfefca;
+    }
+    img {
+        float: left;
+        margin-right: 1rem;
+    }
+    ul{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        color:#dfefca
+    }
+    .dragon {
+        padding: 2rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        border: 5px solid #6f9db1;
+        border-radius: 10px;
+        padding-bottom: 8rem;
+    }
