@@ -81,3 +81,11 @@ body{
         border-radius: 10px;
         padding-bottom: 8rem;
     }
+    .soma {
+        padding: 2rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        border: 5px solid #6f9db1;
+        border-radius: 10px;
+        padding-bottom: 8rem;
+    }
